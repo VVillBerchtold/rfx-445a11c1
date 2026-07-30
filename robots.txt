@@ -1,2 +1,3 @@
 User-agent: *
-Disallow: /
+Allow: /
+Sitemap: https://vvillberchtold.github.io/rfx-445a11c1/sitemap.xml
